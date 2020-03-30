@@ -21,7 +21,7 @@
 
 <img style="float: left; margin: 0px 15px 15px 0px;" src="https://raw.githubusercontent.com/microsoft/sqlworkshops/master/graphics/textbubble.png"> <h2><a name="about">About this lab</a></h2>
 
-> NOTE: This course is in active re-development. [The course files are complete, and located here](https://github.com/microsoft/sqlworkshops-pythonfordatapros/tree/master/PythonForDataProfessionals), but this page is currently being worked on. 
+> NOTE: This course is in active re-development. [The course files are complete, and located here](https://github.com/microsoft/sqlworkshops-RForDataProfessionals/tree/master/RForDataProfessionals), but this page is currently being worked on. 
 
 Welcome to this Microsoft solutions lab on the architecture on *R Basics for the Data Professional*. In this lab, you'll learn basic R structures, programming and data flow. You'll get resources to go much further in your learning journey, but this short lab will get you up and running quickly. 
 
